@@ -23,11 +23,11 @@ This project was developed following [[COURSE_NAME]]([COURSE_LINK]) course.
 ## :cd: Installation
 
 ```sh
-git clone [PROJECT_REPO_LINK]
+git clone git@github.com:filipe1309/fc-rabbitmq.git
 ```
 
 ```sh
-cd [PROJECT_REPO_NAME]
+cd fc-rabbitmq
 ```
 
 ## :runner: Running
