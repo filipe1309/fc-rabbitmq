@@ -7,7 +7,7 @@
 
 ## 💬 About
 
-This project was developed following [[COURSE_NAME]]([COURSE_LINK]) course.
+This project was developed following FullCycle's [RabbitMQ](https://portal.code.education/lms/#/180/163/102/conteudos) course.
 
 ## :computer: Technologies
 
